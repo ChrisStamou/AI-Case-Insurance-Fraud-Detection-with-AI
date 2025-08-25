@@ -7,6 +7,7 @@ Fraud is relatively rare (~10%) but very costly. The goal was to build models th
 ## Repository Contents
 - `AI_Insurance_Fraud.ipynb` — Python notebook with full data generation, model training, evaluation, and plots.
 - `report.pdf` — Business-style report (LaTeX/Overleaf) that summarizes the project motivation, data, methodology, results, and take-home message.
+- `claims_dataset.csv` - Synthetic dataset of claims in a simulated mid-sized Dutch motor insurance company.
 
 ## Data
 Synthetic dataset representing a Dutch mid-sized motor insurance company:
